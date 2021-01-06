@@ -1,2 +1,2 @@
 # CISI
-Code for the development of the Critical Infrastructure System Index (CISI)
+Package to calculate the Critical Infrastructure System Index (CISI)
