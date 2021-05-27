@@ -2,7 +2,7 @@
 This repository provides the code to:
 - extract critical infrastructure assets from OSM data
 - estimate the amount of infrastructure for given grid cells
-- calculate the Critical Infrastructure System Index (CISI)
+- calculate the Critical Infrastructure Spatial Index (CISI)
 
 It also provides a Jupyter Notebook and additional code to reproduce the figures and supplementary material in Nirandjan et al. (in progress).
 
