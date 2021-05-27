@@ -46,8 +46,10 @@ Nirandjan, S., Koks, E.E., Ward, P.J., Aerts, J.C.J.H. (in progress). A spatiall
       year={...},
       publisher={...}
     }
+    
+The following DOI can be cited for this repository:
+[![DOI](https://zenodo.org/badge/327351993.svg)](https://zenodo.org/badge/latestdoi/327351993)
+
 
 ### License
 Copyright (C) 2021 Sadhana Nirandjan & Elco Koks. All versions released under the [MIT license](LICENSE).
-
-[![DOI](https://zenodo.org/badge/327351993.svg)](https://zenodo.org/badge/latestdoi/327351993)
