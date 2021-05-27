@@ -23,4 +23,4 @@ conda activate CoInf
 
 
 ### License
-Copyright (C) 2021 Elco Koks & Sadhana Nirandjan. All versions released under the [MIT license](LICENSE).
+Copyright (C) 2021 Sadhana Nirandjan & Elco Koks. All versions released under the [MIT license](LICENSE).
