@@ -1,0 +1,35 @@
+name: py38_cisi
+
+channels:
+    - conda-forge
+
+dependencies:
+        - python=3.8
+        - gdal
+        - numpy
+        - pandas
+        - shapely
+        - geopandas
+        - pathos
+        - rasterio
+        - matplotlib
+        - cartopy
+        - basemap
+        - SALib
+        - scikit-learn
+        - xlrd
+        - tqdm
+        - rasterstats
+        - pip
+        - jupyterlab
+        - jupyter 
+        - python-igraph
+        - pygeos
+        - pyproj
+        - descartes
+        - pip:
+          # works for regular pip packages
+          - damagescanner
+          - geofeather
+          - boltons
+          - geopy
