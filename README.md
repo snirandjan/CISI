@@ -9,7 +9,7 @@ It also provides a Jupyter Notebook and additional code to reproduce the figures
 ## Data requirements
 - All critical infrastructure data is based on OpenStreetMap (OSM), which can be freely downloaded. The planet file used in Nirandjan et al. (in progress) is downloaded at January 8, 2021. However, the latest release of planet.osm.pbf file can be used to run the code.
 - Gridded global population distribution data is available from the WorldPop data portal (https://www.worldpop.org). In Nirandjan et al. (in progress), global population distribution data of 2020 is used. 
-- Gridded global GDP data is avaiable from https://datadryad.org/stash/dataset/doi:10.5061/dryad.dk1j0
+- Gridded global GDP data is avaiable from https://datadryad.org/stash/dataset/doi:10.5061/dryad.dk1j0. In Nirandjan et al. (in progress), we use the GDP_PPP_30arcsec file for 2015.
 
 ## Python requirements
 
