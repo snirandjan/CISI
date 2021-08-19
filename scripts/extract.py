@@ -2,7 +2,7 @@
 Extract specified keys + values from an OSM pbf-file. This script is based on the fetch.py, but contains improvements. 
 Note: pick either the retrieve function using Shapely (if geometry needs to be recognized, e.g. for plotting using Matplotlib), or the retrieve function using pygeos (if geometry does not need to be recognized, e.g. if you want to make a geopackage and export)  
 
-@Author: Sadhana Nirandjan - Institute for Environmental studies, VU University Amsterdam
+@Authors: Sadhana Nirandjan, Elco Koks, Ben Dickens - Institute for Environmental studies, VU University Amsterdam
 """
 
 import geopandas
