@@ -50,7 +50,7 @@ Nirandjan, S., Koks, E.E., Ward, P.J., Aerts, J.C.J.H. (in progress). A spatiall
 The following DOI can be cited for this repository:
 [![DOI](https://zenodo.org/badge/327351993.svg)](https://zenodo.org/badge/latestdoi/327351993)
 
-### Global CISI visualizer
+## Global CISI visualizer
 The CISI and the sub-score per system is visualized at a global scale via https://cisi-index.appspot.com/. This is only done for a resolution of 0.25 degrees for speed performance considerations. Have a look and discover where critical infrastructure is located!  
 
 ### License
