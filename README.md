@@ -42,11 +42,10 @@ Nirandjan, S., Koks, E.E., Ward, P.J., Aerts, J.C.J.H. (in press). A spatially-e
       title={A spatially-explicit harmonized global dataset of critical infrastructure},
       author={Nirandjan, S., Koks, E.E., Ward, P.J. and Aerts, J.C.J.H. },
       journal={Scientific Data},
-      volume={...},
-      number={...},
-      pages={...},
-      year={2022},
-      publisher={...}
+      volume={9},
+      number={150},
+      pages={13},
+      year={2022}
     }
     
 The following DOI can be cited for this repository:
