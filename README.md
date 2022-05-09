@@ -35,12 +35,12 @@ conda activate CoInf
 ## How to cite
 If you use the CISI in your work, please cite the corresponding paper:
 
-Nirandjan, S., Koks, E.E., Ward, P.J., Aerts, J.C.J.H. (in press). A spatially-explicit harmonized global dataset of critical infrastructure. _Sci Data_
+Nirandjan, S., Koks, E.E., Ward, P.J. et al. A spatially-explicit harmonized global dataset of critical infrastructure. _Sci Data_ 9, 150 (2022). https://doi.org/10.1038/s41597-022-01218-4
 
 
     @article{Nirandjan2022_CISI,
       title={A spatially-explicit harmonized global dataset of critical infrastructure},
-      author={Nirandjan, S., Koks, E.E., Ward, P.J. and Aerts, J.C.J.H. },
+      author={Nirandjan, S., Koks, E.E., Ward, P.J. and Aerts, J.C.J.H.},
       journal={Scientific Data},
       volume={9},
       number={150},
