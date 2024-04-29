@@ -23,7 +23,6 @@ import matplotlib.pyplot as plt
 import copy
 
 #sys.path.append("C:\Projects\Coastal_Infrastructure\scripts")
-import fetch
 import cisi
 plt.rcParams['figure.figsize'] = [20, 20]
 
